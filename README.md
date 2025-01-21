@@ -21,6 +21,7 @@ Linux (basic)
 
 📊 Кейсы
 
+[Специализация](url) Google IT Automation with Google
 Tableau
 
 
