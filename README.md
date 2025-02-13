@@ -21,11 +21,11 @@ Linux (basic)
 
 📊 Кейсы
 
-[Специализация](url) Google IT Automation with Google
+[Специализация](https://github.com/KseFox/it-cert-automation-practice) Google IT Automation with Google.
 
-[Tableau-проект](url) в рамках обучения в Karpov Courses.
+[Tableu-дашборт](https://public.tableau.com/app/profile/.28968314/viz/KarpovDashboardPractice_17325665185700/sheet5) по анализу рынка труда в рамках обучения в Karpov Courses.
 
-Tableu-проект в виде [дашборда](url) в рамках обучения в Karpov Courses.
+[Tableu-дашборд](https://public.tableau.com/app/profile/.28968314/viz/_17330411759380/sheet10) по мониторингу эффективности отдела в рамках обучения в Karpov Courses.
 
 [Проект из трех заданий ](https://github.com/KseFox/Final-project-of-the-Data-Analyst-course-from-Karpov-Course)в рамках обучения в Karpov Courses
 
@@ -33,16 +33,16 @@ Tableu-проект в виде [дашборда](url) в рамках обуч
 
 МГУ им.М.В.Ломоносова, факультет журналистики, кафедра экономики и менеджмента СМИ, (2009-2015).
 
-ООО "Академия профессионального образования кадров", дополнительное образование, "Проектирование зданий", (2014).
+ООО "Академия профессионального образования кадров", дополнительное образование, "Проектирование зданий", (2024).
 
 
 
 📚 Сертификаты
 
-Sololeatn: [Python Core](url)
+Sololeatn: [Python Core](https://www.sololearn.com/certificates/CT-ZYEGT4PL)
 
-Sololearn: [SQL](url)
-
-Coursera: [Google IT Automation with Python](url)
+Sololearn: [SQL
+](https://www.sololearn.com/certificates/CT-VXQJTI8C)
+Coursera: [Google IT Automation with Python](https://www.coursera.org/account/accomplishments/specialization/JDV43S4WGKVQ))
 
 ✉️ Контакты
