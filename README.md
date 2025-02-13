@@ -27,7 +27,7 @@ Linux (basic)
 
 Tableu-проект в виде [дашборда](url) в рамках обучения в Karpov Courses.
 
-Проект из [трех заданий ](url)в рамках обучения в Karpov Courses
+[Проект из трех заданий ](https://github.com/KseFox/Final-project-of-the-Data-Analyst-course-from-Karpov-Course)в рамках обучения в Karpov Courses
 
 🎓 Образование
 
