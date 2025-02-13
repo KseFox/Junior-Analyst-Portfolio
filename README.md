@@ -29,6 +29,7 @@ Linux (basic)
 
 [Проект из трех заданий ](https://github.com/KseFox/Final-project-of-the-Data-Analyst-course-from-Karpov-Course)в рамках обучения в Karpov Courses
 
+
 🎓 Образование
 
 МГУ им.М.В.Ломоносова, факультет журналистики, кафедра экономики и менеджмента СМИ, (2009-2015).
@@ -41,8 +42,6 @@ Linux (basic)
 
 Sololeatn: [Python Core](https://www.sololearn.com/certificates/CT-ZYEGT4PL)
 
-Sololearn: [SQL
-](https://www.sololearn.com/certificates/CT-VXQJTI8C)
-Coursera: [Google IT Automation with Python](https://www.coursera.org/account/accomplishments/specialization/JDV43S4WGKVQ))
+Sololearn: [SQL](https://www.sololearn.com/certificates/CT-VXQJTI8C)
 
-✉️ Контакты
+Coursera: [Google IT Automation with Python](https://www.coursera.org/account/accomplishments/specialization/JDV43S4WGKVQ)
