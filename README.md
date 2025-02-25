@@ -29,7 +29,9 @@ Linux (basic)
 
 [Проект из трех заданий ](https://github.com/KseFox/Final-project-of-the-Data-Analyst-course-from-Karpov-Course)в рамках обучения в Karpov Courses.
 
-Тестовое задание на визуализацию от Data Heroes в [Tableu](https://public.tableau.com/app/profile/.28968314/viz/DataHeroes_17397445475950/sheet5) и [DataLens](https://datalens.yandex.cloud/sqmg84gcyf2ge-testovoe-zadanie-dlya-dh).
+Тестовое задание на визуализацию от Data Heroes в [Tableu](https://public.tableau.com/app/profile/.28968314/viz/DataHeroes_17397445475950/sheet5) и [DataLens](https://datalens.yandex.cloud/sqmg84gcyf2ge-testovoe-zadanie-dlya-dh). Задание: на основе [данных](https://docs.google.com/spreadsheets/d/1jG7ijOkGuopO-D1lWi_9GgrlgMQ6X2Ais7D63b_yxCY/edit?gid=1568243872#gid=1568243872) построить графики на свое усмотрение.
+
+Тестовое задание на создание [SQL-запросов](https://github.com/KseFox/DH-Test/blob/main/SQL%20request) от Data Heroes. 
 
 
 🎓 Образование
