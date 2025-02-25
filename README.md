@@ -27,7 +27,9 @@ Linux (basic)
 
 [Tableu-дашборд](https://public.tableau.com/app/profile/.28968314/viz/_17330411759380/sheet10) по мониторингу эффективности отдела в рамках обучения в Karpov Courses.
 
-[Проект из трех заданий ](https://github.com/KseFox/Final-project-of-the-Data-Analyst-course-from-Karpov-Course)в рамках обучения в Karpov Courses
+[Проект из трех заданий ](https://github.com/KseFox/Final-project-of-the-Data-Analyst-course-from-Karpov-Course)в рамках обучения в Karpov Courses.
+
+Тестовое задание на визуализацию от Data Heroes в [Tableu](https://public.tableau.com/app/profile/.28968314/viz/DataHeroes_17397445475950/sheet5) и [DataLens](https://datalens.yandex.cloud/sqmg84gcyf2ge-testovoe-zadanie-dlya-dh).
 
 
 🎓 Образование
